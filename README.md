@@ -1,3 +1,3 @@
 # First
-This is my first post
-Testing
+This is my first post.
+Testing.
