@@ -7,3 +7,4 @@ This is my first post,
 ```python
 print("Hello")
 ```
+python hello.py
