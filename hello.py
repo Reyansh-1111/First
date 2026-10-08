@@ -1,3 +1,1 @@
-write(HEY)
-
-  
+ask(Hey what is your name?)
